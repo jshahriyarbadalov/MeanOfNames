@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Azərbaycan Adlarının Mənası</string>
+    <string name="enter_name">Adınızı daxil edin</string>
+    <string name="description">Adın Mənası</string>
+    <string name="search_btn">Axtar</string>
+    <string name="name">Ad</string>
+    <string name="gender">Cinsiyyət</string>
+</resources>
